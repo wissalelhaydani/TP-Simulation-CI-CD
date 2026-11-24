@@ -1,0 +1,4 @@
+tp_simul_cicd/
+__pycache__/
+.pytest_cache/
+*.pyc
